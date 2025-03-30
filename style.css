@@ -37,6 +37,11 @@ body {
 .nav__link:hover {
   text-decoration: underline;
 }
+
+.nav__logo {
+  margin-right: auto;
+  text-transform: uppercase;
+}
 h1 {
   font-size: 2.5rem;
 }
