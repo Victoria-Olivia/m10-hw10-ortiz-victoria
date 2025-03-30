@@ -47,6 +47,8 @@ body {
 .nav__logo {
   margin-right: auto;
   text-transform: uppercase;
+  color: var(--off-white);
+  text-decoration: none;
 }
 
 .hero {
